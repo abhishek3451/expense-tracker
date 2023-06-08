@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.LINK {
+  color: white;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+.active {
+  font-weight: bold;
+  transform: scale(1.1);
+}
+.LINK1 {
+  /* color: rgb(20, 20, 20); */
+  text-decoration: none;
+  margin-right: 1rem;
+}
+.para {
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(195, 195, 190);
+
+  border-radius: 8px;
+  padding: 0.2rem;
+}
+.dark-theme {
+  background-color: #333;
+  color: #f5f5f5;
+}
+.font-theme {
+  color: #f5f5f5;
+}
